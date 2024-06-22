@@ -1,0 +1,185 @@
+{
+  "href": "https://api.spotify.com/v1/search?query=Wos&type=artist&market=AR&offset=0&limit=5",
+  "items": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+      },
+      "followers": {
+        "href": null,
+        "total": 3100074
+      },
+      "genres": [
+        "argentine indie",
+        "trap argentino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5YCc6xS5Gpj3EkaYGdjyNK",
+      "id": "5YCc6xS5Gpj3EkaYGdjyNK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb632866253c99e4531985aa1a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174632866253c99e4531985aa1a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178632866253c99e4531985aa1a",
+          "width": 160
+        }
+      ],
+      "name": "WOS",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:5YCc6xS5Gpj3EkaYGdjyNK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Z3hX6FBCtTfjx8chQ6Mer"
+      },
+      "followers": {
+        "href": null,
+        "total": 3557
+      },
+      "genres": [
+        "rap canario"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2Z3hX6FBCtTfjx8chQ6Mer",
+      "id": "2Z3hX6FBCtTfjx8chQ6Mer",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb2b84841140e4a8d1a0a8f07",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b2b84841140e4a8d1a0a8f07",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b2b84841140e4a8d1a0a8f07",
+          "width": 160
+        }
+      ],
+      "name": "Wos LasPalmas",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:2Z3hX6FBCtTfjx8chQ6Mer"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+      },
+      "followers": {
+        "href": null,
+        "total": 4052048
+      },
+      "genres": [
+        "argentine hip hop",
+        "bases de freestyle",
+        "trap argentino",
+        "trap latino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2x7PC78TmgqpEIjaGAZ0Oz",
+      "id": "2x7PC78TmgqpEIjaGAZ0Oz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb18af5b851999c50e3b7b1cb4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517418af5b851999c50e3b7b1cb4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17818af5b851999c50e3b7b1cb4",
+          "width": 160
+        }
+      ],
+      "name": "Trueno",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:2x7PC78TmgqpEIjaGAZ0Oz"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf"
+      },
+      "followers": {
+        "href": null,
+        "total": 554
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3kdAt1M24OsazoncWOFlFf",
+      "id": "3kdAt1M24OsazoncWOFlFf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1237f4d76d7dd3806c84eea8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051741237f4d76d7dd3806c84eea8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1781237f4d76d7dd3806c84eea8",
+          "width": 160
+        }
+      ],
+      "name": "WOST",
+      "popularity": 24,
+      "type": "artist",
+      "uri": "spotify:artist:3kdAt1M24OsazoncWOFlFf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3QArVFjHI7TaOuEgyjcoYe"
+      },
+      "followers": {
+        "href": null,
+        "total": 13
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3QArVFjHI7TaOuEgyjcoYe",
+      "id": "3QArVFjHI7TaOuEgyjcoYe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730638c5b422605025a7a2b5e1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020638c5b422605025a7a2b5e1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510638c5b422605025a7a2b5e1",
+          "width": 64
+        }
+      ],
+      "name": "Ivo Wosco",
+      "popularity": 16,
+      "type": "artist",
+      "uri": "spotify:artist:3QArVFjHI7TaOuEgyjcoYe"
+    }
+  ],
+  "limit": 5,
+  "next": "https://api.spotify.com/v1/search?query=Wos&type=artist&market=AR&offset=5&limit=5",
+  "offset": 0,
+  "previous": null,
+  "total": 317
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gmail Labels</title>
+  <link th:href="@{/vendor/bootstrap/css/bootstrap.min.css}" rel="stylesheet">
+  <link href="/css/style.css" rel="stylesheet">
+</head>
+<body>
+<div th:include="empleado/layout.html::encabezado"></div>
+
+<div id="gmailLabels"></div>
+<button onclick="redirectToGmail()">Go to Gmail</button>
+<div th:include="empleado/layout.html::pie_pagina"></div>
+<script th:src="@{/vendor/bootstrap/js/bootstrap.bundle.min.js}"></script>
+<script th:inline="javascript">
+  var labels = /*[[${labels}]]*/ 'default';
+  var labelDiv = document.getElementById('gmailLabels');
+  labels.forEach(function(label) {
+    var labelElement = document.createElement('p');
+    labelElement.textContent = label.name;
+    labelDiv.appendChild(labelElement);
+  });
+</script>
+<script>
+  function redirectToGmail() {
+    window.location.href = "https://mail.google.com";
+  }
+</script>
+</body>
+</html>
